@@ -20,3 +20,7 @@ $ bundle install
 $ bundle exec cucumber features --tag ~@not_implemented
 ```
 
+## Listing not implemented tests
+```
+bundle exec cucumber features --tags @not_implemented
+```
