@@ -1,0 +1,5 @@
+require_relative 'sections/tv'
+require_relative 'sections/tv_list'
+require_relative 'sections/comparison_tool'
+require_relative 'sections/facet'
+require_relative 'sections/search_filters'
